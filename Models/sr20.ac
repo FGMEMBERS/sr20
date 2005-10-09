@@ -14017,7 +14017,7 @@ kids 3
 OBJECT poly
 name "cylinder"
 loc 0.00206628 -0.224544 -0.521943
-texture "/home/erik/src/fgfs/models/SR20/prop.rgb"
+texture "/home/erik/src/fgfs/models/SR20/prop2.rgp"
 numvert 25
 0.00203025 0.123811 0.143539
 -0.0281066 0.0373752 0.187383
@@ -14313,7 +14313,7 @@ kids 0
 OBJECT poly
 name "cylinder"
 loc 0.00194556 -0.343595 0.456208
-texture "/home/erik/src/fgfs/models/SR20/prop.rgb"
+texture "/home/erik/src/fgfs/models/SR20/prop2.rgp"
 numvert 25
 0.00203025 0.062403 -0.178993
 -0.0281067 0.143591 -0.12606
@@ -14609,7 +14609,7 @@ kids 0
 OBJECT poly
 name "cylinder"
 loc -0.0040119 0.568139 0.0657347
-texture "/home/erik/src/fgfs/models/SR20/prop.rgb"
+texture "/home/erik/src/fgfs/models/SR20/prop2.rgp"
 numvert 25
 0.00203025 -0.186214 0.0354541
 -0.0281067 -0.180966 -0.0613237

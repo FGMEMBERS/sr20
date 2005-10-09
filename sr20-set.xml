@@ -15,7 +15,7 @@ model, instrument panel, and external 3D model.
   <author>Erik Hofman (3D)</author>
 
   <flight-model>yasim</flight-model>
-  <aero>pa28-161</aero>
+  <aero>../pa28-161/pa28-161</aero>
   <fuel-fraction>0.8</fuel-fraction>
   
   <systems>
@@ -33,7 +33,7 @@ model, instrument panel, and external 3D model.
   </panel>
 
   <model>
-   <path archive="y">Aircraft/sr20/Models/sr20.ac</path>
+   <path archive="y">Aircraft/sr20/Models/sr20.xml</path>
   </model>
   
   <view>
