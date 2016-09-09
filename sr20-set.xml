@@ -11,18 +11,27 @@ model, instrument panel, and external 3D model.
 <PropertyList>
  <sim>
 
-  <description>Cirrus SR-20 (Test!)</description>
-  <author>Erik Hofman (3D)</author>
+  <description>Cirrus SR-20</description>
+  <author>Erik Hofman (3D, FDM)</author>
+  <status>alpha</status>
+  <rating>
+    <FDM type="int">2</FDM>
+    <systems type="int">0</systems>
+    <cockpit type="int">0</cockpit>
+    <model type="int">3</model>
+  </rating>
 
-  <flight-model>yasim</flight-model>
-  <aero>../pa28-161/pa28-161</aero>
+  <flight-model>jsb</flight-model>
+  <aero>SR-20</aero>
   <fuel-fraction>0.8</fuel-fraction>
   
+<!--
   <systems>
    <electrical>
     <path>Aircraft/j3cub/cub-electrical.xml</path>
    </electrical>
   </systems> 
+-->
 
   <sound>
    <path>Aircraft/Generic/generic-sound.xml</path>
