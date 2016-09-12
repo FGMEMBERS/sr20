@@ -18950,7 +18950,7 @@ kids 0
 OBJECT poly
 name "propDisk"
 loc 0.405555 0.01159 0.00217479
-texture "prop2.rgb"
+texture "prop2.png"
 numvert 17
 0.0121197 -0.00300616 -0.967945
 0.0121197 0.392862 -0.883337
