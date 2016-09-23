@@ -22,7 +22,7 @@ model, instrument panel, and external 3D model.
   </rating>
 
   <flight-model>jsb</flight-model>
-  <aero>SR-20</aero>
+  <aero>Aero/SR-20</aero>
   <fuel-fraction>0.8</fuel-fraction>
   
 <!--
